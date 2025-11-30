@@ -21,7 +21,7 @@
 
 ### 2.1 消息确认机制（acks）
 
-```java
+
 // 三种确认模式
 Properties props = new Properties();
 
